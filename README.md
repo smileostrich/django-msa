@@ -1,1 +1,1 @@
-"# django-msa" 
+# django-msa
